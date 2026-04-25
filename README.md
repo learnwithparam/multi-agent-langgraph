@@ -39,6 +39,8 @@ Open [http://localhost:8000/docs](http://localhost:8000/docs) for the interactiv
 6. **The Context-Aware Graph** - Job description matching
 7. **The Parallel Graph** - Parallel agent execution for speed
 
-## About
+## Learn more
 
-Created by [learnwithparam.com](https://learnwithparam.com) - Learn AI Engineering through hands-on projects.
+- Start the course: [learnwithparam.com/courses/langgraph-multi-agent-workflows](https://www.learnwithparam.com/courses/langgraph-multi-agent-workflows)
+- AI Bootcamp for Software Engineers: [learnwithparam.com/ai-bootcamp](https://www.learnwithparam.com/ai-bootcamp)
+- All courses: [learnwithparam.com/courses](https://www.learnwithparam.com/courses)
